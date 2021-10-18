@@ -1,3 +1,5 @@
+//! Program to add 2 numbers
+
 import java.util.Scanner;
 
 public class AddTwoNumber {
